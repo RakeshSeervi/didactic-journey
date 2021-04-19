@@ -3,6 +3,8 @@ Javascript solutions to the exercises in [freeCodeCamp's Coding Interview Prep C
 
 ## [Algorithms](https://www.freecodecamp.org/learn/coding-interview-prep#algorithms)
 
-1. [Find the Symmetric Difference](https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/find-the-symmetric-difference) - [Solution](../blob/main/Algorithms/Find\the\Symmetric\Difference.js)
-2. [Inventory Update](https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/inventory-update) - [Solution](../blob/main/Algorithms/Inventory\Update.js)
-3. [No Repeats Please](https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/no-repeats-please) - [Solution](../blob/main/Algorithms/No\Repeats\Please.js)
+Exercise | Solution
+-- | --
+[Find the Symmetric Difference](https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/find-the-symmetric-difference) | [Solution](<../main/Algorithms/Find the Symmetric Difference.js>)
+[Inventory Update](https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/inventory-update) | [Solution](<../main/Algorithms/Inventory Update.js>)
+[No Repeats Please](https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/no-repeats-please) | [Solution](<../main/Algorithms/No Repeats Please.js>)
